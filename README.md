@@ -6,8 +6,8 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://jupyter.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![yfinance](https://img.shields.io/badge/yfinance-white?style=flat-square&logo=yfinance)](https://ranaroussi.github.io/yfinance/)
-[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=BeautifulSoup)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat-square&logo=Matplotlib)](https://matplotlib.org/stable/index.html)
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-black?style=flat-square&logo=beautifulsoup)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-yellow?style=flat-square&logo=matplotlib)](https://matplotlib.org/stable/index.html)
 
 ---
 
@@ -42,9 +42,9 @@ The goal of this project is to showcase foundational Python skills applied to re
 ---
 
 ## Author
-[Josias Minza]
+Josias Minza
 
 ---
 
 ## License
-[MIT Licence]
+**MIT Licence**
